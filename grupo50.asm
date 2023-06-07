@@ -2,7 +2,6 @@
 ; Grupo-50
 ; Bogdan Prokopiuk                              Nº104016
 ; Frederico André Gonçalves de Almeida Soares   Nº102861 
-; Miguel Alexandre Varanda Benjamim             Nº103560
 ; Projecto 2021-22_Versão Final
 ;#############################################################################################################################
 ;Definicao de constantes 
